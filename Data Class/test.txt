@@ -1,0 +1,5 @@
+Banana|0|true|200
+Apple|2|true|100
+Borger|9|false|200
+Meatloaf|5|false|500
+Carrot|9|true|300
